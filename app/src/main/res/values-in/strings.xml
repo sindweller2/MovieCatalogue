@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="firsttab">Film</string>
+    <string name="secondtab">Televisi</string>
+    <string name="change_language_menu">Ganti Bahasa</string>
+    <string-array name="movie_name">
+        <item>Fast and Furious Presents: Hobbs and Shaw</item>
+        <item>The Lion King</item>
+        <item>Avengers: Endgame</item>
+        <item>Spider-Man: Far from Home</item>
+        <item>It Chapter Two</item>
+        <item>Dark Phoenix</item>
+        <item>Annabelle Comes Home</item>
+        <item>John Wick: Chapter 3 – Parabellum</item>
+        <item>Aladdin</item>
+        <item>Toy Story 4</item>
+        <item>Shazam!</item>
+        <item>Men in Black: International</item>
+    </string-array>
+    <string-array name="movie_description">
+        <item>Sebuah spin-off dari The Fate of the Furious, berfokus pada Agen Keamanan Diplomatik AS Luke Hobbs yang membentuk aliansi dengan Deckard Shaw.</item>
+        <item>Simba mengidolakan ayahnya, Raja Mufasa, dan mengambil takdir menjadi raja di kerajaannya sendiri. Tetapi tidak semua di kerajaan itu merayakan kedatangan anaknya. Scar, saudara lelaki Mufasa dan mantan pewaris takhta, memiliki rencana sendiri. Perebutan kekuasaan diisi dengan pengkhianatan, tragedi dan drama, yang akhirnya mengakibatkan pengasingan Simba. Dengan bantuan dari sepasang teman baru, Simba harus mencari cara untuk mengambil kembali apa yang menjadi haknya.</item>
+        <item>Setelah peristiwa pada Avengers: Infinity War, alam semesta hancur karena Thanos. Avengers yang tersisa harus membatalkan tindakan Thanos dan mengembalikan alam semesta pada seharusnya dengan cara apapun.</item>
+        <item>Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, Peter membantu Nick Fury mengungkap misteri yang menyebabkan bencana alam dan kehancuran di seluruh benua.</item>
+        <item>27 tahun setelah peristiwa Pennywise, mantan anggota Losers Club, yang telah dewasa dan pindah dari Derry, dipersatukan kembali oleh panggilan telepon yang mengejutkan.</item>
+        <item>X-Men menghadapi musuh mereka yang paling tangguh dan kuat ketika salah satu dari mereka, Jean Gray, mulai lepas kendali. Saat misi penyelamatan di luar angkasa, Jean Gray hampir terbunuh ketika dihantam oleh kekuatan kosmik misterius. Setelah dia kembali, kekuatan ini tidak hanya membuatnya jauh lebih kuat, tetapi tetapi juga menjadi tidak stabil. X-Men sekarang harus bersatu untuk menyelamatkan Jean Gray dan melawan alien yang ingin menggunakan kemampuan baru Jean Gray untuk menghancurkan galaksi.</item>
+        <item>Bertekad untuk menjaga Annabelle dari membuat lebih banyak kekacauan, Ed dan Lorraine Warren membawa Annabelle ke ruang yang terkunci di rumah mereka, menempatkannya di lemari kaca. Tetapi pada suatu malam ketika Annabelle membangunkan oh jahat di ruangan itu, semuanya tertuju pada putri Warrens yang berusia sepuluh tahun, Judy, dan teman-temannya.</item>
+        <item>John Wick kembali dengan harga 14 juta dollar di kepalanya dan sepasukan pembunuh pemburu hadiah mengejarnya. Setelah membunuh anggota guild High Table, John Wick dikucilkan, membuat semua pembunuh di seluruh dunia menunggunya.</item>
+        <item>Kisah seorang pencuri yang baik hati dan orang yang haus kekuasaan dan lampu ajaib yang memiliki kekuatan untuk membuat keinginan menjadi kenyataan.</item>
+        <item>Ketika sebuah mainan baru bernama "Forky" bergabung dengan kelompok Woody, sebuah petualangan siap menantinya.</item>
+        <item>Seorang anak laki-laki diberikan kemampuan untuk menjadi pahlawan dewasa di saat dibutuhkan dengan satu kata ajaib.</item>
+        <item>Organisasi Men in Black selalu melindungi Bumi bahaya alam semesta. Dalam petualangan baru ini, mereka menangani ancaman terbesar dan global hingga saat ini.</item>
+    </string-array>
+    <array name="movie_releasedate">
+        <item>2 Agustus 2019</item>
+        <item>19 Juli 2019</item>
+        <item>26 April 2019</item>
+        <item>2 Juli 2019</item>
+        <item>6 September 2019</item>
+        <item>7 Juni 2019</item>
+        <item>26 Juni 2019</item>
+        <item>9 Mei 2019</item>
+        <item>24 Mei 2019</item>
+        <item>21 Juni 2019</item>
+        <item>23 Maret 2019</item>
+        <item>11 Juni 2019</item>
+    </array>
+    <array name="movie_runtime">
+        <item>2j 16m</item>
+        <item>1j 58m</item>
+        <item>3j 1m</item>
+        <item>2j 9m</item>
+        <item>2j 49m</item>
+        <item>1j 54m</item>
+        <item>1j 46m</item>
+        <item>2j 11m</item>
+        <item>2j 8m</item>
+        <item>1j 40m</item>
+        <item>2j 12m</item>
+        <item>1j 55m</item>
+    </array>
+    <array name="movie_picture">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/keym7MPn1icW1wWfzMnW3HeuzWU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcq8dVxeeOqHvvgcte707K0KVx5.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQQHjzcmCNe0kgvEAKGA6oJ1EdV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l93QAoIw8ZAZgwPjqbnftzMSP9m.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYWGCAerbVAHyfuGBCHKzWJdEtj.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg</item>
+    </array>
+
+    <string-array name="tv_name">
+        <item>The Boys</item>
+        <item>Chernobyl</item>
+        <item>The Punisher</item>
+        <item>Daredevil</item>
+        <item>Black Mirror</item>
+        <item>Sherlock</item>
+        <item>Jessica Jones</item>
+        <item>Luke Cage</item>
+        <item>Iron Fist</item>
+        <item>The Defenders</item>
+        <item>Legion</item>
+        <item>Game of Thrones</item>
+    </string-array>
+    <string-array name="tv_description">
+        <item>Sekelompok warga sipil berusaha menjatuhkan pahlawan super yang menyalahgunakan kekuatan super mereka.</item>
+        <item>Pada April 1986, sebuah ledakan di pembangkit listrik tenaga nuklir Chernobyl di Uni Soviet menjadi salah satu bencana buatan manusia terburuk di dunia.</item>
+        <item>Setelah pembantaian keluarganya, veteran marinir, Frank Castle menjadi "The Punisher," dengan hanya satu tujuan dalam pikirannya: balas dendam.</item>
+        <item>Matt Murdock, eorang pengacara buta di siang hari dan melawan kejahatan New York sebagai Daredevil di malam hari.</item>
+        <item>Ketika serangkaian kejadian mengenai penjelajahan dunia teknologi tinggi dan naluri gelap manusia bertabrakan.</item>
+        <item>Kisah detektif terkenal dan mitra dokternya dalam memecahkan kejahatan di London abad 21.</item>
+        <item>Jessica Jones mencoba membangun kembali hidupnya sebagai detektif yang menangani kasus yang melibatkan orang yang memiliki kemampuan super di New York.</item>
+        <item>Setelah eksperimen yang memberinya kekuatan super dan kulit yang tidak bisa dihancurkan, Luke Cage menjadi buronan yang berusaha membangun kembali hidupnya di Harlem dan bertempur memperebutkan kotanya kembali dari para penindas orang lemah.</item>
+        <item>Seorang pria muda yang mempunyai kemampuan seni bela diri yang luar biasa dan kekuatan mistis yang dikenal sebagai Iron Fist.</item>
+        <item>Beberapa bulan setelah peristiwa Daredevil, dan satu bulan setelah peristiwa Iron Fist,Daredevil, Jessica Jones, Luke Cage, dan Iron Fist di New York untuk melawan musuh bersama: The Hand.</item>
+        <item>David Haller adalah seorang pemuda yang didiagnosis menderita skizofrenia, tetapi setelah kejadian yang aneh, ia menemukan kekuatan khusus yang akan mengubah hidupnya selamanya.</item>
+        <item>Sembilan keluarga bangsawan berjuang untuk menguasai Westeros, sementara musuh kuno kembali lagi setelah tidak aktif selama ribuan tahun.</item>
+    </string-array>
+    <array name="tv_releasedate">
+        <item>"2019"</item>
+        <item>"2019"</item>
+        <item>2017 - 2019</item>
+        <item>2015 - 2018</item>
+        <item>"2011"</item>
+        <item>"2010"</item>
+        <item>2015 - 2019</item>
+        <item>2016 - 2018</item>
+        <item>2017 - 2018</item>
+        <item>"2017"</item>
+        <item>2017 - 2019</item>
+        <item>2011 - 2019</item>
+    </array>
+    <array name="tv_runtime">
+        <item>1j</item>
+        <item>5j 30m</item>
+        <item>53m</item>
+        <item>54m</item>
+        <item>1j</item>
+        <item>1j 28m</item>
+        <item>56m</item>
+        <item>55m</item>
+        <item>55m</item>
+        <item>50m</item>
+        <item>1j</item>
+        <item>57m</item>
+    </array>
+    <array name="tv_picture">
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTY2NDY5MTYzOF5BMl5BanBnXkFtZTgwMTcyNTM0NjM@._V1_SY1000_SX800_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNTEyYmIzMDUtNWMwNC00Y2Q1LWIyZTgtMGY1YzUxOTAwYTAwXkEyXkFqcGdeQXVyMjIyMTc0ODQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BZmVkYjk1ODQtODk5OC00ZGY1LTg3YzMtYTBiYjg5MGEwYTk1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNWJiZDQ3NTQtNTBiMi00OTk0LWEzOTUtMTVmOGE1Nzc0YTc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjAxOTM3NjEwMV5BMl5BanBnXkFtZTgwNTkyOTY4NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNWU4NmY3MTMtMTBmMi00NjFjLTkwMmItYWZhZWUwNDg5M2ExXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNmYxMjM5MzMtNTczZC00MGM3LTk2MTQtZmNmMTg4ZDI4ZTkxXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+    </array>
+</resources>

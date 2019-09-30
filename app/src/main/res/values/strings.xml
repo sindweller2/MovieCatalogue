@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="firsttab">Movie</string>
+    <string name="secondtab">TV</string>
+    <string name="change_language_menu">Change Language</string>
+    <string-array name="movie_name">
+        <item>Fast and Furious Presents: Hobbs and Shaw</item>
+        <item>The Lion King</item>
+        <item>Avengers: Endgame</item>
+        <item>Spider-Man: Far from Home</item>
+        <item>It Chapter Two</item>
+        <item>Dark Phoenix</item>
+        <item>Annabelle Comes Home</item>
+        <item>John Wick: Chapter 3 – Parabellum</item>
+        <item>Aladdin</item>
+        <item>Toy Story 4</item>
+        <item>Shazam!</item>
+        <item>Men in Black: International</item>
+    </string-array>
+    <string-array name="movie_description">
+        <item>A spinoff of The Fate of the Furious, focusing on Johnson\'s US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham\'s Deckard Shaw.</item>
+        <item>Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub\'s arrival. Scar, Mufasa\'s brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba\'s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers\' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.</item>
+        <item>The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she\'s hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey\'s new abilities to rule the galaxy.</item>
+        <item>Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest\’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens\' ten-year-old daughter, Judy, and her friends.</item>
+        <item>Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world\’s most ruthless hit men and women await his every turn.</item>
+        <item>A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.</item>
+        <item>When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.</item>
+        <item>A boy is given the ability to become an adult superhero in times of need with a single magic word.</item>
+        <item>The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.</item>
+    </string-array>
+    <array name="movie_releasedate">
+        <item>August 2, 2019</item>
+        <item>July 19, 2019</item>
+        <item>April 26, 2019</item>
+        <item>July 2, 2019</item>
+        <item>September 6, 2019</item>
+        <item>June 7, 2019</item>
+        <item>June 26, 2019</item>
+        <item>May 9, 2019</item>
+        <item>May 24, 2019</item>
+        <item>June 21, 2019</item>
+        <item>March 23, 2019</item>
+        <item>June 11, 2019</item>
+    </array>
+    <array name="movie_runtime">
+        <item>2h 16m</item>
+        <item>1h 58m</item>
+        <item>3h 1m</item>
+        <item>2h 9m</item>
+        <item>2h 49m</item>
+        <item>1h 54m</item>
+        <item>1h 46m</item>
+        <item>2h 11m</item>
+        <item>2h 8m</item>
+        <item>1h 40m</item>
+        <item>2h 12m</item>
+        <item>1h 55m</item>
+    </array>
+    <array name="movie_picture">
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/keym7MPn1icW1wWfzMnW3HeuzWU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcq8dVxeeOqHvvgcte707K0KVx5.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQQHjzcmCNe0kgvEAKGA6oJ1EdV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l93QAoIw8ZAZgwPjqbnftzMSP9m.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYWGCAerbVAHyfuGBCHKzWJdEtj.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg</item>
+    </array>
+
+    <string-array name="tv_name">
+        <item>The Boys</item>
+        <item>Chernobyl</item>
+        <item>The Punisher</item>
+        <item>Daredevil</item>
+        <item>Black Mirror</item>
+        <item>Sherlock</item>
+        <item>Jessica Jones</item>
+        <item>Luke Cage</item>
+        <item>Iron Fist</item>
+        <item>The Defenders</item>
+        <item>Legion</item>
+        <item>Game of Thrones</item>
+    </string-array>
+    <string-array name="tv_description">
+        <item>A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.</item>
+        <item>In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world\'s worst man-made catastrophes.</item>
+        <item>After the murder of his family, Marine veteran Frank Castle becomes the vigilante known as "The Punisher," with only one goal in mind: to avenge them.</item>
+        <item>A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil.</item>
+        <item>An anthology series exploring a twisted, high-tech world where humanity\'s greatest innovations and darkest instincts collide.</item>
+        <item>A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.</item>
+        <item>Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City.</item>
+        <item>When a sabotaged experiment gives him super strength and unbreakable skin, Luke Cage becomes a fugitive attempting to rebuild his life in Harlem and must soon confront his past and fight a battle for the heart of his city.</item>
+        <item>A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.</item>
+        <item>Set a few months after the events of the second season of Daredevil, and a month after the events of Iron Fist, the vigilantes Daredevil, Jessica Jones, Luke Cage, and Iron Fist team up in New York City to fight a common enemy: The Hand.</item>
+        <item>David Haller is a troubled young man diagnosed as schizophrenic, but after a strange encounter, he discovers special powers that will change his life forever.</item>
+        <item>Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.</item>
+    </string-array>
+    <array name="tv_releasedate">
+        <item>"2019"</item>
+        <item>"2019"</item>
+        <item>2017 - 2019</item>
+        <item>2015 - 2018</item>
+        <item>"2011"</item>
+        <item>"2010"</item>
+        <item>2015 - 2019</item>
+        <item>2016 - 2018</item>
+        <item>2017 - 2018</item>
+        <item>"2017"</item>
+        <item>2017 - 2019</item>
+        <item>2011 - 2019</item>
+    </array>
+    <array name="tv_runtime">
+        <item>1h</item>
+        <item>5h 30m</item>
+        <item>53m</item>
+        <item>54m</item>
+        <item>1h</item>
+        <item>1h 28m</item>
+        <item>56m</item>
+        <item>55m</item>
+        <item>55m</item>
+        <item>50m</item>
+        <item>1h</item>
+        <item>57m</item>
+    </array>
+    <array name="tv_picture">
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTY2NDY5MTYzOF5BMl5BanBnXkFtZTgwMTcyNTM0NjM@._V1_SY1000_SX800_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNTEyYmIzMDUtNWMwNC00Y2Q1LWIyZTgtMGY1YzUxOTAwYTAwXkEyXkFqcGdeQXVyMjIyMTc0ODQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BZmVkYjk1ODQtODk5OC00ZGY1LTg3YzMtYTBiYjg5MGEwYTk1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNWJiZDQ3NTQtNTBiMi00OTk0LWEzOTUtMTVmOGE1Nzc0YTc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjAxOTM3NjEwMV5BMl5BanBnXkFtZTgwNTkyOTY4NTM@._V1_SY1000_CR0,0,675,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjI5Mjg1NDcyOV5BMl5BanBnXkFtZTgwMjAxOTQ5MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNWU4NmY3MTMtMTBmMi00NjFjLTkwMmItYWZhZWUwNDg5M2ExXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNmYxMjM5MzMtNTczZC00MGM3LTk2MTQtZmNmMTg4ZDI4ZTkxXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SY1000_CR0,0,666,1000_AL_.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg
+        </item>
+    </array>
+</resources>
